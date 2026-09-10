@@ -1,7 +1,7 @@
-==================================================================================
-                    ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
-                            Version 1.0 (2026)
-==================================================================================
+----------------------------------------------------------------------------------
+ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
+Version 1.0 (2026)
+----------------------------------------------------------------------------------
 
 PREAMBLE
 ----------------------------------------------------------------------------------
@@ -98,16 +98,15 @@ kept and remain unchanged.
 5.2 Prohibited Project Names. Your modified or remixed project must not use or 
 imply connection to the Artzencraft intellectual property. Prohibited names 
 include, but are not limited to:
-  > Artzencraft
-  > AZC
-  > Arts and Craft
+  * Artzencraft
+  * AZC
+  * Arts and Craft
 
 5.3 Permitted Critique Names. You are explicitly permitted to reference the 
 original brand name if your project title is structured as a critique or review. 
 Permitted naming conventions include, but are not limited to:
-  > Artzencraft Destroyer
-  > Artzencraft Sucks
+  * Artzencraft Destroyer
+  * Artzencraft Sucks
 
-==================================================================================
-                             [END OF LICENSE TERMS]
-==================================================================================
+----------------------------------------------------------------------------------
+eof
