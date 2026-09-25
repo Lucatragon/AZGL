@@ -30,6 +30,10 @@ As used in this License, the following terms have the specific meanings:
 * "Contact" means the official channel for communication regarding this license, 
   located via the GitHub link below:
       https://github.com/Lucatragon/message/blob/main/contacts.txt
+* "AZGLv1" means "the latest version of AZGLv1.x", it is and should be referred to
+  as shorthanded text, and further AZGL versions such as say, V6 or V17, will have
+  or should have this same definition: "the latest version of 
+  AZGLv[current version].x"
 
 
 SECTION 2: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
