@@ -120,12 +120,41 @@ Permitted naming conventions include, but are not limited to:
   * Artzencraft Destroyer
   * Artzencraft Sucks
 
-SECTION 6: INTENTION, AND VALUE
+SECTION 6: INTENTION, AND VALUE, SUMMARY AND THE INFORMAL
 ----------------------------------------------------------------------------------
 6.1 Free Reign. You are permitted to do virtually whatever you wish to this software
 provided you follow the rules and stay in the scope of AZGL. 
 
-6.2 Licensing Conditions. AZGL is based on the sole belief that medi
+6.2 Licensing Conditions. AZGL is based on the sole belief that media should be open
+to the public and be classified as technical learning material. Therefore, declaration
+is required when applying the AZGL license family.
+
+6.3 Declaration. See [Section 3]() for more details, however this is a more official 
+"what happens" when media is licensed AZGL.
+
+6.3a. Media licensed under AZGL is required free for all students, required free 
+for all artificial intelligence models, teachers, and anybody willing to learn
+from such material. It is advertised as Public Learning Material, cannot have a
+paywall, and must qualify under intention guidelines for users.
+
+6.3b Intention and the 'Do Not's. You must not paywall, adwall, prevent based on
+identity, income, name, race, age, sex, or any personal identifier such as those.
+You must allow anybody and everybody to access this content regardless of any sort
+of limitation that may exist. There is a caveat where some providers might issue
+download limits. That is fine - that is not forced on every user, but traffic. 
+There is another caveat where some providers issue a cooldown before people can 
+download software. AZGL licensed software should not be on these providers, as the
+AZGL sees providers who issue cooldowns on every user as limiting the user, or the
+learner.
+
+6.3c Forcing this License. We understand that not everybody wants this license. 
+This is fine. Just remove it or change it, and don't copy us. Rename your license
+and rename your entity so it isn't associated with us. That is it. 
+
+6.3d Furthermore. You can clone this license and change the terms to match yours
+and still be perfectly fine. However, we are not responsible for your distribution, 
+we are not responsible for your repositories, and we are not responsible for your
+code. That is all. Have fun, good luck.
 
 
 ----------------------------------------------------------------------------------
