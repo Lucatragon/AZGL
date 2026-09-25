@@ -1,7 +1,9 @@
-----------------------------------------------------------------------------------
-ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
-Version 1.0 (2026)
-----------------------------------------------------------------------------------
+==================================================================================
+                    ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
+                            Version 1.1 (Sept 2026)
+                 The following LICENSE updated 25 Sept 2026 UTC
+                       The current README updated sameday
+==================================================================================
 
 PREAMBLE
 ----------------------------------------------------------------------------------
@@ -30,6 +32,10 @@ As used in this License, the following terms have the specific meanings:
 * "Contact" means the official channel for communication regarding this license, 
   located via the GitHub link below:
       https://github.com/Lucatragon/message/blob/main/contacts.txt
+* "AZGLv1" means "the latest version of AZGLv1.x", it is and should be referred to
+  as shorthanded text, and further AZGL versions such as say, V6 or V17, will have
+  or should have this same definition: "the latest version of 
+  AZGLv[current version].x"
 
 
 SECTION 2: WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
@@ -95,18 +101,27 @@ You must remove "Artzencraft" and the letters "AZ" from the title and acronym,
 replacing them with your own brand name or acronym, unless the license is to be
 kept and remain unchanged.
 
+5.1b Verbatim. This means, that if the license is meant to be kept, unchanged, and
+the assets themselves also unchanged, the logos unchanged, the code unchanged.. you
+may use Artzencraft, Artzenith, or any of the branding names we at AZCZA have, or I,
+Lucatragon on Github, have, provided it is relevant to the source. (Example: A game
+engine can still be named a game engine or be simplified into "engine", but it cannot
+suddenly become the license. That is reserved for the AZGLv1 and its future partings.
+
 5.2 Prohibited Project Names. Your modified or remixed project must not use or 
-imply connection to the Artzencraft intellectual property. Prohibited names 
-include, but are not limited to:
-  * Artzencraft
-  * AZC
-  * Arts and Craft
+imply connection to the Artzencraft intellectual property if otherwise. Prohibited 
+names include, but are not limited to:
+  > Artzencraft
+  > AZC
+  > Arts and Craft
+  > Artzenith
 
 5.3 Permitted Critique Names. You are explicitly permitted to reference the 
 original brand name if your project title is structured as a critique or review. 
 Permitted naming conventions include, but are not limited to:
-  * Artzencraft Destroyer
-  * Artzencraft Sucks
+  > Artzencraft Destroyer
+  > Artzencraft Sucks
 
-----------------------------------------------------------------------------------
-eof
+==================================================================================
+                             [END OF LICENSE TERMS]
+==================================================================================
