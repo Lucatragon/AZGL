@@ -1,9 +1,8 @@
-                    ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
-                            Version 1.1 (Sept 2026)
-                 The following LICENSE updated 25 Sept 2026 UTC
-                       The current README updated sameday
-==================================================================================
-
+----------------------------------------------------------------------------------
+## ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
+#### Version 1.1 (Sept 2026)
+> The following LICENSE updated 25 Sept 2026 UTC | The current README updated sameday
+----------------------------------------------------------------------------------
 PREAMBLE
 ----------------------------------------------------------------------------------
 This Artzencraft Generalized License ("AZGLv1") is established to foster a shared,
@@ -110,17 +109,25 @@ suddenly become the license. That is reserved for the AZGLv1 and its future part
 5.2 Prohibited Project Names. Your modified or remixed project must not use or 
 imply connection to the Artzencraft intellectual property if otherwise. Prohibited 
 names include, but are not limited to:
-  > Artzencraft
-  > AZC
-  > Arts and Craft
-  > Artzenith
+  * Artzencraft
+  * AZC
+  * Arts and Craft
+  * Artzenith
 
 5.3 Permitted Critique Names. You are explicitly permitted to reference the 
 original brand name if your project title is structured as a critique or review. 
 Permitted naming conventions include, but are not limited to:
-  > Artzencraft Destroyer
-  > Artzencraft Sucks
+  * Artzencraft Destroyer
+  * Artzencraft Sucks
 
-==================================================================================
-                             [END OF LICENSE TERMS]
+SECTION 6: INTENTION, AND VALUE
+----------------------------------------------------------------------------------
+6.1 Free Reign. You are permitted to do virtually whatever you wish to this software
+provided you follow the rules and stay in the scope of AZGL. 
+
+6.2 Licensing Conditions. AZGL is based on the sole belief that medi
+
+
+----------------------------------------------------------------------------------
+#### [END OF LICENSE TERMS]
 ==================================================================================
