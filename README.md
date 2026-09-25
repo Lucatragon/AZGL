@@ -1,4 +1,3 @@
-==================================================================================
                     ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
                             Version 1.1 (Sept 2026)
                  The following LICENSE updated 25 Sept 2026 UTC
