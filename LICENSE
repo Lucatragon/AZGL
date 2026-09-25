@@ -1,6 +1,6 @@
 ==================================================================================
                     ARTZENCRAFT GENERALIZED LICENSE (AZGLv1)
-                            Version 1.0 (2026)
+                            Version 1.1 (Sept 2026)
 ==================================================================================
 
 PREAMBLE
@@ -95,9 +95,16 @@ You must remove "Artzencraft" and the letters "AZ" from the title and acronym,
 replacing them with your own brand name or acronym, unless the license is to be
 kept and remain unchanged.
 
+5.1b Verbatim. This means, that if the license is meant to be kept, unchanged, and
+the assets themselves also unchanged, the logos unchanged, the code unchanged.. you
+may use Artzencraft, Artzenith, or any of the branding names we at AZCZA have, or I,
+Lucatragon on Github, have, provided it is relevant to the source. (Example: A game
+engine can still be named a game engine or be simplified into "engine", but it cannot
+suddenly become the license. That is reserved for the AZGLv1 and its future partings.
+
 5.2 Prohibited Project Names. Your modified or remixed project must not use or 
-imply connection to the Artzencraft intellectual property. Prohibited names 
-include, but are not limited to:
+imply connection to the Artzencraft intellectual property if otherwise. Prohibited 
+names include, but are not limited to:
   > Artzencraft
   > AZC
   > Arts and Craft
